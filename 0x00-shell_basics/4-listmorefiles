@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A
+ls -A /alx-system_engineering-devops/0x00-shell_basics
