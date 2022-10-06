@@ -1,2 +1,2 @@
-who
-
+#!/bin/bash
+whoami
